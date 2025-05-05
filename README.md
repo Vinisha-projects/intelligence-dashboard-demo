@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-
 # Intelligence Metrics Dashboard (Demo)
+CONTACT FOR THE ORIGINAL PRODUCT
 
 This is a sanitized public demo version of an AI-powered business intelligence dashboard for Cybersecurity and Sales KPIs. Built with Streamlit, Prophet, Scikit-learn, and mock LLM insights.
 
@@ -9,7 +8,7 @@ This is a sanitized public demo version of an AI-powered business intelligence d
 - Time series forecasting (Prophet)
 - Anomaly detection (Isolation Forest)
 - Modular dashboards for cybersecurity & sales
-- AI-generated executive summaries (mocked)
+- AI-generated executive summaries(mocked) -- original with ngrok & LLaMa
 - ngrok integration for public sharing
 
 ## Run Locally
@@ -25,6 +24,6 @@ pip install pyngrok
 
 ## License
 MIT — Demo only. Not for production use.
-=======
+
 # intelligence-dashboard-demo
->>>>>>> f210e819cd4bb188df26793b2c95628e74668fa1
+f210e819cd4bb188df26793b2c95628e74668fa1
