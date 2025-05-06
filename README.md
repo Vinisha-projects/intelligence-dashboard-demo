@@ -24,6 +24,3 @@ pip install pyngrok
 
 ## License
 MIT — Demo only. Not for production use.
-
-# intelligence-dashboard-demo
-f210e819cd4bb188df26793b2c95628e74668fa1
